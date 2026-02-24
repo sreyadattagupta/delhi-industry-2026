@@ -1,0 +1,11 @@
+CandidateID,Statement,Type,Priority,Confidence
+1,Support standardized work order intake,Feature,Should,Low
+2,Capture source channel,Data,Must,Medium
+3,Enforce priority rules,Rule,Could,Medium
+4,Configurable SLA targets,Rule,Must,High
+5,Track SLA breaches,Feature,Should,High
+6,Backlog by priority report,Report,Should,Medium
+7,Weekly downtime report,Report,Must,Medium
+8,Audit history tracking,NFR,Should,Low
+9,Photo attachment support,Feature,Must,Medium
+10,Parts availability visibility,Feature,Must,High

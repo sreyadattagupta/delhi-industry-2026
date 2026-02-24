@@ -1,0 +1,9 @@
+StakeholderID,Name,Role,Influence,Interest
+1,Raj Mehta,Maintenance Manager,High,High
+2,Anita Sharma,Operations Lead,High,High
+3,Vikram Rao,Planner,Medium,High
+4,Priya Nair,Technician Lead,Medium,High
+5,Karan Patel,Technician,Low,High
+6,Neha Singh,Inventory Manager,Medium,Medium
+7,IT Support Team,IT Team,Medium,Medium
+8,Executive Board,Leadership,High,Low

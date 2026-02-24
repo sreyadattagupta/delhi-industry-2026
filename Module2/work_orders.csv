@@ -1,0 +1,21 @@
+WorkOrderID,WorkOrderNumber,Category,Priority,Status,CreatedDate,AssignedToStakeholderID
+1,WO-1001,Inspection,High,On Hold,2026-02-21,3
+2,WO-1002,Calibration,Low,Open,2026-02-15,5
+3,WO-1003,Calibration,Low,In Progress,2026-01-28,6
+4,WO-1004,Safety,High,On Hold,2026-02-16,2
+5,WO-1005,Calibration,Low,Open,2026-02-19,1
+6,WO-1006,Electrical,High,In Progress,2026-01-31,1
+7,WO-1007,Safety,High,In Progress,2026-01-30,2
+8,WO-1008,Safety,High,Completed,2026-02-13,5
+9,WO-1009,Mechanical,Medium,Completed,2026-02-21,4
+10,WO-1010,Mechanical,Medium,Open,2026-02-09,5
+11,WO-1011,Calibration,High,In Progress,2026-02-12,5
+12,WO-1012,Calibration,High,Completed,2026-02-07,8
+13,WO-1013,Electrical,Low,Completed,2026-02-04,6
+14,WO-1014,Inspection,Low,Open,2026-02-02,8
+15,WO-1015,Inspection,Low,In Progress,2026-02-11,6
+16,WO-1016,Electrical,Low,Open,2026-01-28,4
+17,WO-1017,Inspection,Medium,On Hold,2026-02-05,3
+18,WO-1018,Safety,High,On Hold,2026-01-29,1
+19,WO-1019,Electrical,High,Completed,2026-02-18,3
+20,WO-1020,Calibration,Low,Completed,2026-02-07,5
